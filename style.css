@@ -109,7 +109,7 @@ body{
 }
 
 .head1{
-    color: var(--secondary-color);
+    color: var(--primary-color);
 }
 .img2{
     color: var(--secondary-color);
@@ -178,23 +178,77 @@ body{
     color: var(--text-primary);
 }
 
-.fea1{
-    color: var(--secondary-color);
-}
-
-.cart1{
-    font-size: 60px;
-   
+.technical-row {
+    gap: 20px;
     
+
+}
+.head-text{
+    color: var(--primary-color);
 }
 
-.car1{
-    background-color: var(--card-bg);
+.featured{
+        gap: 20px;
+
+
+}
+.project-card{
+           background-color: var(--card-bg);
+
+}
+.gradient{
+     background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);;
+}
+.project-logo{
+    font-size: 50px;
+}
+.featured-pill{
+              background-color:#282972 ;
+              color: var(--primary-color);
+ 
 }
 
-.title1{
-    color: white;
+.pill-container{
+    gap: 15px;
 }
-.feature1{
+.live{
+    gap: 30px;
+    color: var(--primary-color);
+
+}
+
+.get-in-touch{
+        background-color: var(--card-bg);
+
+}
+.contact-section{
     color: var(--text-secondary);
+}
+.circle-1{
+            background:var(--gradient-1);
+             width: 40px;
+    height: 40px;
+
+}
+.social
+{
+    gap: 20px;
+}
+.circle-1:hover{
+            transform: translateY(-6px);
+
+}
+.final-section{
+    background-color: var(--card-bg);
+   
+}
+.getin{
+    color: var(--primary-color);
+}
+.text-01{
+     text-align: center;
+}
+
+.text-00{
+    text-align: center;
 }
