@@ -52,7 +52,7 @@ body{
 .btn-work:hover{
     color: white;
     background-color: var(--secondary-color);
-    box-shadow: 5px 4px 80px white;
+    box-shadow: 5px 4px 10px white;
 }
 
 .btn-work1{
@@ -101,4 +101,100 @@ body{
 .lead{
     font-size: 1.25rem;
     font-weight:300;
+}
+
+.img1{
+    color: var(--secondary-color);
+    font-size: 60px;
+}
+
+.head1{
+    color: var(--secondary-color);
+}
+.img2{
+    color: var(--secondary-color);
+    font-size: 60px;
+}
+
+.img3{
+    color: var(--secondary-color);
+    font-size: 60px;
+}
+
+.img4{
+    color: var(--secondary-color);
+    font-size: 60px;
+}
+
+.color1{
+    background-color: var(--card-bg);
+    transition: transform 0.6s ease;
+}
+.color1:hover{
+     box-shadow: 0px 4px 20px black;
+    transform: translateY(-10px);
+}
+
+.color2{
+    background-color: var(--card-bg);
+    transition: transform 0.6s ease;
+}
+.color2:hover{
+     box-shadow: 0px 4px 20px black;
+    transform: translateY(-10px);
+}
+
+.color3{
+    background-color: var(--card-bg);
+    transition: transform 0.6s ease;
+}
+.color3:hover{
+     box-shadow: 0px 4px 20px black;
+    transform: translateY(-10px);
+}
+
+.color4{
+    background-color: var(--card-bg);
+    transition: transform 0.6s ease;
+}
+.color4:hover{
+     box-shadow: 0px 4px 20px black;
+    transform: translateY(-10px);
+}
+
+.text-1{
+    color: var(--text-primary);
+}
+
+.text-2{
+    color: var(--text-primary);
+}
+
+.text-3{
+    color: var(--text-primary);
+}
+
+.text-4{
+    color: var(--text-primary);
+}
+
+.fea1{
+    color: var(--secondary-color);
+}
+
+.cart1{
+    font-size: 60px;
+   
+    
+}
+
+.car1{
+    background-color: var(--card-bg);
+}
+
+.title1{
+    color: white;
+}
+.feature1{
+    color: var(--text-secondary);
 }
